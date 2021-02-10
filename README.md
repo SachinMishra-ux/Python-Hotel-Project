@@ -4,4 +4,4 @@ The code written in python language for this hotel project can be used to config
 Watch the video or run and check the o/p of the program to get better idea.
 If you feel some necessary changes please contribute.
 
-[![Python-Hotel-Project](https://img.youtube.com/vi/https://www.youtube.com/watch?v=NZb5YSpP8rE&t.jpg)](https://www.youtube.com/watch?v=NZb5YSpP8rE&t=3s)
+[![Python-Hotel-Project](https://img.youtube.com/vi/https://www.youtube.com/watch?v=NZb5YSpP8rE&t/maxresdefault.jpg)](https://www.youtube.com/embed/NZb5YSpP8rE) </br>
